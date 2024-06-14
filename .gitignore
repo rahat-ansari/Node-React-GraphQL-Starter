@@ -1,4 +1,8 @@
-.yarn/*
+
+.history/
+client/.yarn/
+client/node_modules/
+.yarn/
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
@@ -14,4 +18,5 @@
 .history/
 node_modules/
 yarn.lock
+server/.yarn/
 server/.yarn/install-state.gz
