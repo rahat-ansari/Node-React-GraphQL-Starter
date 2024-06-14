@@ -20,3 +20,4 @@ client/node_modules/
 node_modules/
 yarn.lock
 >>>>>>> 3563a92913a40a20aae5d3a11521d52a324cc773
+server/.yarn/install-state.gz
